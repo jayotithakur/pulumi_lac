@@ -1,0 +1,4 @@
+config:
+  aws:region: us-east-2
+  aws_ec2:cloudName: aws
+  aws_ec2:project: test
